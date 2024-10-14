@@ -1,4 +1,4 @@
-some other apple
+cause merge conflict for test
 green apples
 red apples
 pink lady apples
